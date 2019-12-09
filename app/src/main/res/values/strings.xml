@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerprintLock</string>
+    <string name="instructions">Place your fingertip on the scanner to verify your identity</string>
+
+</resources>
